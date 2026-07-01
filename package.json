@@ -1,0 +1,12 @@
+{
+  "name": "playwright-api-crud",
+  "version": "1.0.0",
+  "description": "API testing example using Playwright's APIRequestContext. Demonstrates CRUD operations against a public REST API.",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "typescript": "^5.4.2"
+  }
+}
